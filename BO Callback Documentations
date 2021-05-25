@@ -10,7 +10,7 @@ Response headers:
 - hmac
 --> hmac is calculated using privateKey of merchant
 
-1. Balance request
+## 1. Balance request
 Request body: 
 - type: 'W'
 - identifier: '<USER_IDENTITY>'
